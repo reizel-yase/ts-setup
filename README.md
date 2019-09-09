@@ -39,7 +39,9 @@
 * Inside it, write:
 ```
 const func = () => {
-  console.log('Hello World!')
+	console.log("Hello World!")
 }
+
+func()
 ```
 * Run tsc
