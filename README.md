@@ -10,7 +10,7 @@
 * Run `npm i typescript --save-dev`
 * Create a `src` and `dist` folder in the folder's root
 * Run `tsc --init`
-> To create and initialise a `tsconfig.json` file that will contain typescript compilation configuration)
+  > To create and initialise a `tsconfig.json` file that will contain typescript compilation configuration)
 * Update the `tsconfig.json` file to be the same as the following:
   ```tsconfig.json
   {
@@ -37,11 +37,11 @@
   ```
 * Create a file under `/src` folder, say `index.ts`
 * Inside it, write:
-```
-const func = () => {
-	console.log("Hello World!")
-}
+  ```
+  const func = () => {
+    console.log("Hello World!")
+  }
 
-func()
-```
+  func()
+  ```
 * Run tsc
