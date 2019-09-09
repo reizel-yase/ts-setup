@@ -1,10 +1,10 @@
 # Simple Typescript Setup
 
-# Pre-requisites
+## Pre-requisites
 * Node JS
 * Typescript
 
-# Installation
+## Installation
 * Create an empty folder
 * In command prompt, go to that folder directory
 * Run `npm i typescript --save-dev`
